@@ -1,6 +1,6 @@
 Plugin based on V3 of Google Maps, and also supports 2 markers (Or single marker, or can include more markers over 2 on request!)
 
-Google maps API has changed from V2, you do not generate API keys based on url input anymore, you now use your existing Google account and go to Google API Console here you want to generate a browser based API key. You can generate/use a catch all API key, or define domains. You also need to enable the Maps V3 API, this should be viewable under the list of API�s available to you in the console.
+Google maps API has changed from V2, you do not generate API keys based on url input anymore, you now use your existing Google account and go to Google API Console here you want to generate a browser based API key. You can generate/use a catch all API key, or define domains. You also need to enable the Maps V3 API, this should be viewable under the list of API's available to you in the console.
 
 Features:
 
@@ -11,7 +11,7 @@ Contact me if you need to place more than 2 markers or edit the plugin code, sho
 
 Troubleshoot:
 
-Info window showing white or coloured background, not rendering shadow correctly � this can be due to your existing image styling, you can use the #pro_map_canvas id to style for display issues like this
+Info window showing white or coloured background, not rendering shadow correctly - this can be due to your existing image styling, you can use the #pro_map_canvas id to style for display issues like this
 
 eg. <style>#pro_map_canvas img{background: transparent;}</style>
 
